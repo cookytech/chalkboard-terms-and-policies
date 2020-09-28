@@ -36,3 +36,12 @@ We take several key steps to protect the privacy of the consumer:
 * We do not share user identifiable data with our third party providers
 * We have special audits in place to ensure the previous point
 * We have a special anonymization stage that all event data must go through before entering our analytics pipeline
+
+```
+We understand the responsibility of dealing with data generated
+by legal minors and the threats they face on a day to day basis
+on the online platforms. We make our best effort to serve their 
+educational interests well.
+We welcome any improvement recommendation to this policy through
+proper feedback channels.
+```
