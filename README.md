@@ -12,7 +12,6 @@ For any confusion or claim, you can contact us through a relevant channel as men
     * [Privacy Policy](./policies/privacy.md)
     * [Refund Policy](./policies/refund.md)
     * [Return Policy](./policies/return.md)
-    * [Shipping Policy](./policies/shipping.md)
 * Enclosed Terms Include:
     * [Terms for Students/Guardians](./terms_and_conditions/guardians.md)
 
